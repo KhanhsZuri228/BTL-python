@@ -1,0 +1,44 @@
+[
+    {
+        "ten": "Gà Nướng Lu",
+        "nguyen_lieu": "Gà",
+        "cach_nau": "Nướng",
+        "quoc_gia": "Việt Nam"
+    },
+    {
+        "ten": "Cá hồi áp chảo",
+        "nguyen_lieu": "Cá",
+        "cach_nau": "Chiên",
+        "quoc_gia": "Nhật Bản"
+    },
+    {
+        "ten": "Khoai Tây Chiên",
+        "nguyen_lieu": "Khoai Tây",
+        "cach_nau": "Luộc",
+        "quoc_gia": "Ấn Độ"
+    },
+    {
+        "ten": "Khoai Tây Chiên",
+        "nguyen_lieu": "Khoai Tây",
+        "cach_nau": "Chiên",
+        "quoc_gia": "Mỹ"
+    },
+    {
+        "ten": "Beef steak",
+        "nguyen_lieu": "Thịt Bò",
+        "cach_nau": "Chiên",
+        "quoc_gia": "Mỹ"
+    },
+    {
+        "ten": "Xôi Xoài",
+        "nguyen_lieu": "Xôi",
+        "cach_nau": "Hấp",
+        "quoc_gia": "Thái Lan"
+    },
+    {
+        "ten": "Cầy Tơ ",
+        "nguyen_lieu": "Chó",
+        "cach_nau": "Hầm",
+        "quoc_gia": "Việt Nam"
+    }
+]
